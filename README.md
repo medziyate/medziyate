@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on concepts.<br>Claude handle the syntax.<br>Building personal projects for fun.  <br>But it could actually end up somewhere else...
+🔭 Currently working on concepts.<br>Claude handles the syntax.<br>Building personal projects for fun.  <br>But it could actually end up somewhere else...
 
 
 ## 🌐 Socials:
